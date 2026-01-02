@@ -1,4 +1,4 @@
-3# 🛠️ AutoView Enterprise
+# 🛠️ AutoView Enterprise
 > **Sistema de Gestão de Oficinas & Transparência ao Cliente (MVP)**
 
 O **AutoView** é uma solução de software desenhada para modernizar a relação entre oficinas mecânicas e os seus clientes, eliminando a desconfiança e reduzindo a carga administrativa através da transparência em tempo real.
@@ -79,13 +79,10 @@ pip install streamlit pandas plotly
 
 # 3. Executar a aplicação
 streamlit run app.py
+```
 
 
-
-###🔮 Roadmap Futuro (Ideias v2.0)
-[ ] Integração com WhatsApp API para enviar o Token automaticamente.
-
-[ ] Notificações Push quando o estado muda para "Pronto".
+###Roadmap Futuro (Ideias v2.[)][ ] Integração com WhatsApp API para enviar o Token automaticamente. ] Notificações Push quando o estado muda para "Pronto".
 
 [ ] Histórico de reparações passadas por viatura.
 

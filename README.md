@@ -82,7 +82,10 @@ streamlit run app.py
 ```
 
 
-###Roadmap Futuro (Ideias v2.[)][ ] Integração com WhatsApp API para enviar o Token automaticamente. ] Notificações Push quando o estado muda para "Pronto".
+### 🔮 Roadmap Futuro (Ideias v2.0)
+[ ] Integração com WhatsApp API para enviar o Token automaticamente.
+
+[ ] Notificações Push quando o estado muda para "Pronto".
 
 [ ] Histórico de reparações passadas por viatura.
 
